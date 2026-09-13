@@ -1,0 +1,19 @@
+git-intel-summary.md
+  s_19fe68d275f9d4::t_61bc3eb081d741 1-620
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cea984a6412fb1ba525c733c91774fb638ceaaff",
+  "prompts": {},
+  "sessions": {
+    "s_19fe68d275f9d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "69b7511f-c45c-4c60-ad77-905d2a8be1b6",
+        "model": "unknown"
+      },
+      "human_author": "Mohankumar Muthusamy <akpmohan07@gmail.com>"
+    }
+  }
+}
